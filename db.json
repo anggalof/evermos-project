@@ -1,318 +1,316 @@
 {
-  "data": {
-    "our_new_products": [
-      {
-        "id": "product0001", 
-        "code": "M00231",
-        "name": "Umair - Sarung Polos Katun Premium Umair Khaki",
-        "product_type": "Sarung",
-        "size": "S, M, L, XL",
-        "price": 118900,
-        "location": "Tasikmalaya",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Sarung Polos",
-            "price": 118900
-          },
-          {
-            "id": 2,
-            "name": "Sarung Motif Biru",
-            "price": 150500
-          },
-          {
-            "id": 3,
-            "name": "Sarung Corak Melow",
-            "price": 180500
-          }
-        ],
-        "image_url":"/images/new-products/product-1.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0002",
-        "code": "M0520",
-        "name": "LADY ROSE OFFICIAL - Vallery Quincy Karpet Alia",
-        "product_type": "Karpet",
-        "size": "80cm x 60cm",
-        "price": 154800,
-        "location": "Bandung",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Ukuran 80cm x 60cm",
-            "price": 154800
-          },
-          {
-            "id": 2,
-            "name": "Ukuran 100cm x 80cm",
-            "price": 190500
-          }
-        ],
-        "image_url":"/images/new-products/product-2.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0003",
-        "code": "MO102",
-        "name": "Inthebox - Kasur Lipat Lantai IN THE BOX FLIP Z - gratis bantal & tas kasur lipat F388FZ-LL2P-160NTR",
-        "product_type": "Kasur",
-        "size": "120cm x 100cm",
-        "price": 145000,
-        "location": "Bekasi",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Ukuran 120cm x 100cm",
-            "price": 145000
-          },
-          {
-            "id": 2,
-            "name": "Ukuran 160cm x 140cm",
-            "price": 200500
-          }
-        ],
-        "image_url":"/images/new-products/product-3.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0004",
-        "code": "MO512",
-        "name": "Kintakun - Selimut Lembut Lite Fluffy",
-        "product_type": "Selimut",
-        "size": "",
-        "price": 89000,
-        "location": "Tangerang",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Warna Corak",
-            "price": 89000
-          },
-          {
-            "id": 2,
-            "name": "Warna Polos",
-            "price": 60000
-          }
-        ],
-        "image_url":"/images/new-products/product-4.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0005",
-        "code": "MO231",
-        "name": "Kintakun - Sprei Set Flat Lite Irmadel Microtex T20",
-        "product_type": "Sprei",
-        "size": "100cm x 80cm",
-        "price": 72650,
-        "location": "Jakarta Timur",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Ukuran 100cm x 80cm",
-            "price": 72650
-          },
-          {
-            "id": 2,
-            "name": "Ukuran 160cm x 140cm",
-            "price": 110500
-          }
-        ],
-        "image_url":"/images/new-products/product-5.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0006",
-        "code": "M0502",
-        "name": "CUIT Baby 1 - 4 Tahun Set Piyama Anak Tangan Pendek Celana Panjang Pioni Unisex",
-        "product_type": "Pakaian",
-        "size": "S & M",
-        "price": 64500,
-        "location": "Bandung",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Ukuran S",
-            "price": 64500
-          },
-          {
-            "id": 2,
-            "name": "Ukuran M",
-            "price": 64500
-          }
-        ],
-        "image_url":"/images/new-products/product-6.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0007",
-        "code": "MO231",
-        "name": "Azkiya - Bergo Maryam",
-        "product_type": "Jilbab",
-        "size": "",
-        "price": 25000,
-        "location": "Bandung",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Jilbab Warna Natural",
-            "price": 250000
-          }
-        ],
-        "image_url":"/images/new-products/product-7.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "product0008",
-        "code": "M0502",
-        "name": "Milan Food Bandung - (NEW) Cigor Laser Makanan Ringan 200gr",
-        "product_type": "Cemilan",
-        "size": "500gram",
-        "price": 8600,
-        "location": "Tangerang",
-        "varian": [
-          {
-            "id": 1,
-            "name": "Berat 500gram",
-            "price": 8600
-          },
-          {
-            "id": 2,
-            "name": "Berat 1kg",
-            "price": 16000
-          }
-        ],
-        "image_url":"/images/new-products/product-8.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      }
-    ]
-  }
+  "ournewproducts": [
+    {
+      "id": "product0001", 
+      "code": "M00231",
+      "name": "Umair - Sarung Polos Katun Premium Umair Khaki",
+      "product_type": "Sarung",
+      "size": "S, M, L, XL",
+      "price": 118900,
+      "location": "Tasikmalaya",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Sarung Polos",
+          "price": 118900
+        },
+        {
+          "id": 2,
+          "name": "Sarung Motif Biru",
+          "price": 150500
+        },
+        {
+          "id": 3,
+          "name": "Sarung Corak Melow",
+          "price": 180500
+        }
+      ],
+      "image_url":"/images/new-products/product-1.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0002",
+      "code": "M0520",
+      "name": "LADY ROSE OFFICIAL - Vallery Quincy Karpet Alia",
+      "product_type": "Karpet",
+      "size": "80cm x 60cm",
+      "price": 154800,
+      "location": "Bandung",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran 80cm x 60cm",
+          "price": 154800
+        },
+        {
+          "id": 2,
+          "name": "Ukuran 100cm x 80cm",
+          "price": 190500
+        }
+      ],
+      "image_url":"/images/new-products/product-2.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0003",
+      "code": "MO102",
+      "name": "Inthebox - Kasur Lipat Lantai IN THE BOX FLIP Z - gratis bantal & tas kasur lipat F388FZ-LL2P-160NTR",
+      "product_type": "Kasur",
+      "size": "120cm x 100cm",
+      "price": 145000,
+      "location": "Bekasi",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran 120cm x 100cm",
+          "price": 145000
+        },
+        {
+          "id": 2,
+          "name": "Ukuran 160cm x 140cm",
+          "price": 200500
+        }
+      ],
+      "image_url":"/images/new-products/product-3.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0004",
+      "code": "MO512",
+      "name": "Kintakun - Selimut Lembut Lite Fluffy",
+      "product_type": "Selimut",
+      "size": "",
+      "price": 89000,
+      "location": "Tangerang",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Warna Corak",
+          "price": 89000
+        },
+        {
+          "id": 2,
+          "name": "Warna Polos",
+          "price": 60000
+        }
+      ],
+      "image_url":"/images/new-products/product-4.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0005",
+      "code": "MO231",
+      "name": "Kintakun - Sprei Set Flat Lite Irmadel Microtex T20",
+      "product_type": "Sprei",
+      "size": "100cm x 80cm",
+      "price": 72650,
+      "location": "Jakarta Timur",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran 100cm x 80cm",
+          "price": 72650
+        },
+        {
+          "id": 2,
+          "name": "Ukuran 160cm x 140cm",
+          "price": 110500
+        }
+      ],
+      "image_url":"/images/new-products/product-5.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0006",
+      "code": "M0502",
+      "name": "CUIT Baby 1 - 4 Tahun Set Piyama Anak Tangan Pendek Celana Panjang Pioni Unisex",
+      "product_type": "Pakaian",
+      "size": "S & M",
+      "price": 64500,
+      "location": "Bandung",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran S",
+          "price": 64500
+        },
+        {
+          "id": 2,
+          "name": "Ukuran M",
+          "price": 64500
+        }
+      ],
+      "image_url":"/images/new-products/product-6.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0007",
+      "code": "MO231",
+      "name": "Azkiya - Bergo Maryam",
+      "product_type": "Jilbab",
+      "size": "",
+      "price": 25000,
+      "location": "Bandung",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Jilbab Warna Natural",
+          "price": 250000
+        }
+      ],
+      "image_url":"/images/new-products/product-7.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "product0008",
+      "code": "M0502",
+      "name": "Milan Food Bandung - (NEW) Cigor Laser Makanan Ringan 200gr",
+      "product_type": "Cemilan",
+      "size": "500gram",
+      "price": 8600,
+      "location": "Tangerang",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Berat 500gram",
+          "price": 8600
+        },
+        {
+          "id": 2,
+          "name": "Berat 1kg",
+          "price": 16000
+        }
+      ],
+      "image_url":"/images/new-products/product-8.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    }
+  ]
 }
