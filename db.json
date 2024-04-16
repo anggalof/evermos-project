@@ -312,5 +312,316 @@
         }
       ]
     }
+  ],
+  "ourproducts": [
+    {
+      "id": "item0001", 
+      "name": "qaydstoreid - (FREE IKAT RAMBUT) Hijab Crinkel Airflow Jumbo",
+      "product_type": "Jilbab",
+      "size": "",
+      "price": 30600,
+      "location": "Tasikmalaya",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Warna Coklat Light",
+          "price": 30600
+        },
+        {
+          "id": 2,
+          "name": "Warna Coklat Dark",
+          "price": 30600
+        }
+      ],
+      "image_url":"/images/products/product-1.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0002",
+      "name": "Aliya - Garam Himalaya",
+      "product_type": "Garam",
+      "size": "255gram",
+      "price": 18700,
+      "location": "Bandung",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Berat 255gram",
+          "price": 18700
+        },
+        {
+          "id": 2,
+          "name": "Berat 500gram",
+          "price": 22500
+        }
+      ],
+      "image_url":"/images/products/product-2.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0003",
+      "name": "Raincoat - Jas Hujan Kangguru Mantel Taslan Raincoat",
+      "product_type": "Jas Hujan",
+      "size": "",
+      "price": 166800,
+      "location": "Bandung",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Warna Hitam",
+          "price": 166800
+        },
+        {
+          "id": 2,
+          "name": "Warna Biru",
+          "price": 166800
+        },
+        {
+          "id": 3,
+          "name": "Warna Coklat",
+          "price": 166800
+        }
+      ],
+      "image_url":"/images/products/product-3.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0004",
+      "name": "Al Mubarokah - Madu Al Mubarokah Kemasan 1Kg",
+      "product_type": "Madu",
+      "size": "1kg",
+      "price": 90000,
+      "location": "Jakarta Selatan",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Berat 1kg",
+          "price": 90000
+        },
+        {
+          "id": 2,
+          "name": "Berat 2kg",
+          "price": 180000
+        }
+      ],
+      "image_url":"/images/products/product-4.png",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0005",
+      "name": "Batik Ayodha - KAFTAN MARWAH ALLSIZE JUMBO",
+      "product_type": "Batik",
+      "size": "L",
+      "price": 80351,
+      "location": "Pekalongan",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran L",
+          "price": 80351
+        }
+      ],
+      "image_url":"/images/products/product-5.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0006",
+      "name": "Kintakun - Kintakun Handuk Mandi Dewasa Cotton Pile Towel Sari DLUXE",
+      "product_type": "Handuk",
+      "size": "",
+      "price": 58560,
+      "location": "Tangerang",
+      "varian": [
+        {
+          "id": 1,
+          "name": "DLUXE",
+          "price": 58560
+        },
+        {
+          "id": 2,
+          "name": "ORIGINAL",
+          "price": 45000
+        }
+      ],
+      "image_url":"/images/products/product-6.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0007",
+      "name": "[BUNDLING] Beauty Of Angel Glow Soap 40gr 3 PCS - Beauty of Angel - Soap Bar",
+      "product_type": "Sabun",
+      "size": "",
+      "price": 69250,
+      "location": "Tangerang",
+      "varian": [
+        {
+          "id": 1,
+          "name": "40gr 4 pcs",
+          "price": 69250
+        },
+        {
+          "id": 2,
+          "name": "100gr 2 pcs",
+          "price": 110000
+        }
+      ],
+      "image_url":"/images/products/product-7.png",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    },
+    {
+      "id": "item0008",
+      "name": "MAMY Gallery - [PO] Baju Gamis Fedora Dress Rompi (Premium Quality)",
+      "product_type": "Toy",
+      "size": "M, L, XL",
+      "price": 120900,
+      "location": "Jakarta Barat",
+      "varian": [
+        {
+          "id": 1,
+          "name": "Ukuran M",
+          "price": 120900
+        },
+        {
+          "id": 2,
+          "name": "Ukuran L",
+          "price": 120900
+        },
+        {
+          "id": 1,
+          "name": "Ukuran XL",
+          "price": 120900
+        }
+      ],
+      "image_url":"/images/products/product-8.jpeg",
+      "shipping": [
+        {
+          "id": "1",
+          "name": "JNE",
+          "image": "/images/shipping/jne.png"
+        },
+        {
+          "id": "2",
+          "name": "J&T",
+          "image": "/images/shipping/j&t.png"
+        },
+        {
+          "id": "3",
+          "name": "Sicepat",
+          "image": "/images/shipping/sicepat.png"
+        }
+      ]
+    }
   ]
 }
