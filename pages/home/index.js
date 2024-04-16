@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
-import db from "../../data/db.json";
+import { useSelector, useDispatch } from "react-redux";
+import sections from "../../data/sections.json";
+import { fetchProductList, fetchNewProductList } from "../../lib";
 import { Header } from "../../components/sections/Header";
 import { OurNewProducts } from "../../components/sections/OurNewProducts";
 import { OurProducts } from "../../components/sections/OurProducts";
@@ -13,21 +15,41 @@ const App = () => {
   const [ourNewProducts, setOurNewProductSection] = useState({});
   const [ourProducts, setOurProductSection] = useState({});
   const [ourNews, setOurNewsSection] = useState({});
+  const isNewProductLoading = useSelector((state) => state.newProductList.loading);
+  const newProductList = useSelector((state) => state.newProductList.newProductList);
+  const isProductLoading = useSelector((state) => state.productList.loading);
+  const productList = useSelector((state) => state.productList.productList);
+  const dispatch = useDispatch();
 
   useEffect(() => {
-    setHeaderSection(db?.data?.header);
-    setBanner(db?.data?.banner);
-    setOurNewProductSection(db?.data?.our_new_products);
-    setOurProductSection(db?.data?.our_products);
-    setOurNewsSection(db?.data?.our_news);
+    dispatch(fetchProductList());
+    dispatch(fetchNewProductList());
   }, []);
+
+  useEffect(() => {
+    if (newProductList) {
+      setOurNewProductSection(newProductList.data);
+    }
+
+    if (productList) {
+      setOurProductSection(productList.data);
+    }
+  }, [newProductList, productList]);
+
+  useEffect(() => {
+    setHeaderSection(sections?.data?.header);
+    setBanner(sections?.data?.banner);
+    setOurNewsSection(sections?.data?.our_news);
+  }, []);
+
+  console.log('ourProducts', ourProducts);
 
   return (
     <React.Fragment>
       <Header data={headerSection} dataBanner={banner} />
-      <OurNewProducts data={ourNewProducts} />
+      <OurNewProducts data={ourNewProducts} loading={isNewProductLoading} />
       <SectionHeader />
-      <OurProducts data={ourProducts} />
+      <OurProducts data={ourProducts} loading={isProductLoading} />
       <ProductBrand />
       <OurNews data={ourNews} />
     </React.Fragment>
