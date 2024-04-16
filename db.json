@@ -25,21 +25,7 @@
           "price": 180500
         }
       ],
-      "image_url":"/images/new-products/product-1.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/new-products/product-1.jpeg"
     },
     {
       "id": "product0002",
@@ -61,13 +47,7 @@
           "price": 190500
         }
       ],
-      "image_url":"/images/new-products/product-2.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        }
-      ]
+      "image_url":"/images/new-products/product-2.jpeg"
     },
     {
       "id": "product0003",
@@ -89,13 +69,7 @@
           "price": 200500
         }
       ],
-      "image_url":"/images/new-products/product-3.jpeg",
-      "shipping": [
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/new-products/product-3.jpeg"
     },
     {
       "id": "product0004",
@@ -117,17 +91,7 @@
           "price": 60000
         }
       ],
-      "image_url":"/images/new-products/product-4.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/new-products/product-4.jpeg"
     },
     {
       "id": "product0005",
@@ -149,21 +113,7 @@
           "price": 110500
         }
       ],
-      "image_url":"/images/new-products/product-5.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/new-products/product-5.jpeg"
     },
     {
       "id": "product0006",
@@ -185,17 +135,7 @@
           "price": 64500
         }
       ],
-      "image_url":"/images/new-products/product-6.jpeg",
-      "shipping": [
-        {
-          "id": "2",
-          "name": "J&T"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/new-products/product-6.jpeg"
     },
     {
       "id": "product0007",
@@ -212,17 +152,7 @@
           "price": 250000
         }
       ],
-      "image_url":"/images/new-products/product-7.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/new-products/product-7.jpeg"
     },
     {
       "id": "product0008",
@@ -244,17 +174,7 @@
           "price": 16000
         }
       ],
-      "image_url":"/images/new-products/product-8.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/new-products/product-8.jpeg"
     }
   ],
   "ourproducts": [
@@ -277,17 +197,7 @@
           "price": 30600
         }
       ],
-      "image_url":"/images/products/product-1.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/products/product-1.jpeg"
     },
     {
       "id": "item0002",
@@ -308,13 +218,7 @@
           "price": 22500
         }
       ],
-      "image_url":"/images/products/product-2.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        }
-      ]
+      "image_url":"/images/products/product-2.jpeg"
     },
     {
       "id": "item0003",
@@ -340,17 +244,7 @@
           "price": 166800
         }
       ],
-      "image_url":"/images/products/product-3.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/products/product-3.jpeg"
     },
     {
       "id": "item0004",
@@ -371,21 +265,7 @@
           "price": 180000
         }
       ],
-      "image_url":"/images/products/product-4.png",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/products/product-4.png"
     },
     {
       "id": "item0005",
@@ -401,13 +281,7 @@
           "price": 80351
         }
       ],
-      "image_url":"/images/products/product-5.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        }
-      ]
+      "image_url":"/images/products/product-5.jpeg"
     },
     {
       "id": "item0006",
@@ -428,17 +302,7 @@
           "price": 45000
         }
       ],
-      "image_url":"/images/products/product-6.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/products/product-6.jpeg"
     },
     {
       "id": "item0007",
@@ -459,17 +323,7 @@
           "price": 110000
         }
       ],
-      "image_url":"/images/products/product-7.png",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "2",
-          "name": "J&T"
-        }
-      ]
+      "image_url":"/images/products/product-7.png"
     },
     {
       "id": "item0008",
@@ -495,17 +349,7 @@
           "price": 120900
         }
       ],
-      "image_url":"/images/products/product-8.jpeg",
-      "shipping": [
-        {
-          "id": "1",
-          "name": "JNE"
-        },
-        {
-          "id": "3",
-          "name": "Sicepat"
-        }
-      ]
+      "image_url":"/images/products/product-8.jpeg"
     }
   ]
 }
