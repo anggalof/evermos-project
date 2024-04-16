@@ -29,18 +29,15 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     },
@@ -68,8 +65,7 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         }
       ]
     },
@@ -97,8 +93,7 @@
       "shipping": [
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -126,13 +121,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -160,18 +153,15 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     },
@@ -199,13 +189,11 @@
       "shipping": [
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     },
@@ -228,13 +216,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     },
@@ -262,13 +248,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     }
@@ -297,13 +281,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -330,8 +312,7 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         }
       ]
     },
@@ -363,13 +344,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -396,18 +375,15 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     },
@@ -429,8 +405,7 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         }
       ]
     },
@@ -457,13 +432,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -490,13 +463,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "2",
-          "name": "J&T",
-          "image": "/images/shipping/j&t.png"
+          "name": "J&T"
         }
       ]
     },
@@ -528,13 +499,11 @@
       "shipping": [
         {
           "id": "1",
-          "name": "JNE",
-          "image": "/images/shipping/jne.png"
+          "name": "JNE"
         },
         {
           "id": "3",
-          "name": "Sicepat",
-          "image": "/images/shipping/sicepat.png"
+          "name": "Sicepat"
         }
       ]
     }
