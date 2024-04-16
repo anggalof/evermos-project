@@ -719,12 +719,6 @@
           }
         ]
       }
-    ],
-    "adoption": {
-      "tagline_start": "Adoption",
-      "tagline_end": "We need help. so do they.",
-      "description": "Adopt a pet and give it a home, it will be love you back unconditionally.",
-      "image_url": "/images/humanity.svg"
-    }
+    ]
   }
 }

@@ -1,26 +1,5 @@
 {
   "data": {
-    "header": {
-      "tagline_start": "one more product",
-      "tagline_end": "thousands more fun!",
-      "description": "Having a product means you have more joy, a new experience, a happy person who will always be with you to have fun. We have 20000+ different products that can meet your needs!",
-      "image_url": "/images/good-humored.svg",
-      "image_url_next": "/images/horizontal-shot-adult-girl.svg"
-    },
-    "banner": [
-      {
-        "id": 1,
-        "image": "/images/banner/banner-1.png"
-      },
-      {
-        "id": 2,
-        "image": "/images/banner/banner-2.png"
-      },
-      {
-        "id": 3,
-        "image": "/images/banner/banner-3.png"
-      }
-    ],
     "our_new_products": [
       {
         "id": "product0001", 
@@ -645,86 +624,6 @@
           }
         ]
       }
-    ],
-    "our_news": [
-      {
-        "id": "news0001", 
-        "name": "Rekomendasi Produk Gamis Kaftan Cantik untuk Lebaran 2024",
-        "info": "Pakaian",
-        "description": "Rekomendasi Produk Gamis Kaftan – Gamis kaftan adalah salah satu jenis busana muslim yang banyak diminati oleh perempuan Indonesia.  Busana ini memiliki desain yang longgar dan lebar dengan lengan yang elegan dan dipastikan nyaman saat digunakan.",
-        "image_url":"/images/news/news-1.webp",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "news0002",
-        "name": "30 Kata Kata untuk Promosi Kue Lebaran dan Hampers yang Menarik Pelanggan",
-        "info": "Makanan",
-        "description": "Ingin usaha kue lebaran kamu laris manis di bulan Ramadhan ini? Saatnya gunakan kata kata untuk promosi kue lebaran yang menarik dan menjual. Yuk, simak contohnya disini! Kue lebaran memang sangat diminati oleh para masyarakat umum dihari raya ini dengan beragam banyak pilihan.",
-        "image_url":"/images/news/news-2.webp",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      },
-      {
-        "id": "news0003",
-        "name": "8 Rekomendasi Handbody yang Cepat Memutihkan Kulit Terbaik 2024, Bikin Glowing!",
-        "info": "Kecantikan",
-        "description": "Handbody merupakan produk perawatan kulit yang berbentuk lotion, krim, hingga gel yang digunakan untuk melembapkan dan melindungi kulit. Bukan hanya itu, bahkan saat ini juga sudah banyak handbody yang cepat mengatasi kulit lebih baik lagi.",
-        "image_url":"/images/news/news-3.jpeg",
-        "shipping": [
-          {
-            "id": "1",
-            "name": "JNE",
-            "image": "/images/shipping/jne.png"
-          },
-          {
-            "id": "2",
-            "name": "J&T",
-            "image": "/images/shipping/j&t.png"
-          },
-          {
-            "id": "3",
-            "name": "Sicepat",
-            "image": "/images/shipping/sicepat.png"
-          }
-        ]
-      }
-    ],
-    "adoption": {
-      "tagline_start": "Adoption",
-      "tagline_end": "We need help. so do they.",
-      "description": "Adopt a pet and give it a home, it will be love you back unconditionally.",
-      "image_url": "/images/humanity.svg"
-    }
+    ]
   }
 }
