@@ -1,0 +1,75 @@
+.btn-overview {
+  width: 100%;
+  margin: 1.5rem 0;
+  padding: 0;
+
+  .btn-light {
+    width: 100%;
+    border: 1px solid $primary-color;
+    color: $primary-color;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+
+    @media (max-width: 768px) {
+      padding: 0.5rem;
+      font-size: 12px;
+    }
+  }
+
+  .btn-dark {
+    width: 100%;
+    border: 1px solid $primary-color;
+    color: $normal-color;
+    background-color: $primary-color;
+    padding: 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+
+    @media (max-width: 768px) {
+      padding: 0.5rem;
+      font-size: 12px;
+    }
+  }
+
+  span {
+    font-size: 8px;
+    border-radius: 50%;
+    border: 1px solid $primary-color;
+    padding: 4px 5px;
+    margin-left: 4px;
+  }
+}
+
+.btn-overview:first-of-type {
+  margin-right: 1rem;
+}
+
+.owSize {
+  width: 10rem !important;
+  display: block;
+
+  span {
+    border: 0 !important;
+    font-size: 12px;
+  }
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.owMobile {
+  display: none;
+  border: 0;
+
+  @media (max-width: 768px) {
+    display: block;
+
+    span {
+      border: 0 !important;
+      font-size: 12px;
+    }
+  }
+}

@@ -1,0 +1,730 @@
+{
+  "data": {
+    "header": {
+      "tagline_start": "one more product",
+      "tagline_end": "thousands more fun!",
+      "description": "Having a product means you have more joy, a new experience, a happy person who will always be with you to have fun. We have 20000+ different products that can meet your needs!",
+      "image_url": "/images/good-humored.svg",
+      "image_url_next": "/images/horizontal-shot-adult-girl.svg"
+    },
+    "banner": [
+      {
+        "id": 1,
+        "image": "/images/banner/banner-1.png"
+      },
+      {
+        "id": 2,
+        "image": "/images/banner/banner-2.png"
+      },
+      {
+        "id": 3,
+        "image": "/images/banner/banner-3.png"
+      }
+    ],
+    "our_new_products": [
+      {
+        "id": "product0001", 
+        "code": "M00231",
+        "name": "Umair - Sarung Polos Katun Premium Umair Khaki",
+        "product_type": "Sarung",
+        "size": "S, M, L, XL",
+        "price": 118900,
+        "location": "Tasikmalaya",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Sarung Polos",
+            "price": 118900
+          },
+          {
+            "id": 2,
+            "name": "Sarung Motif Biru",
+            "price": 150500
+          },
+          {
+            "id": 3,
+            "name": "Sarung Corak Melow",
+            "price": 180500
+          }
+        ],
+        "image_url":"/images/new-products/product-1.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0002",
+        "code": "M0520",
+        "name": "LADY ROSE OFFICIAL - Vallery Quincy Karpet Alia",
+        "product_type": "Karpet",
+        "size": "80cm x 60cm",
+        "price": 154800,
+        "location": "Bandung",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran 80cm x 60cm",
+            "price": 154800
+          },
+          {
+            "id": 2,
+            "name": "Ukuran 100cm x 80cm",
+            "price": 190500
+          }
+        ],
+        "image_url":"/images/new-products/product-2.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0003",
+        "code": "MO102",
+        "name": "Inthebox - Kasur Lipat Lantai IN THE BOX FLIP Z - gratis bantal & tas kasur lipat F388FZ-LL2P-160NTR",
+        "product_type": "Kasur",
+        "size": "120cm x 100cm",
+        "price": 145000,
+        "location": "Bekasi",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran 120cm x 100cm",
+            "price": 145000
+          },
+          {
+            "id": 2,
+            "name": "Ukuran 160cm x 140cm",
+            "price": 200500
+          }
+        ],
+        "image_url":"/images/new-products/product-3.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0004",
+        "code": "MO512",
+        "name": "Kintakun - Selimut Lembut Lite Fluffy",
+        "product_type": "Selimut",
+        "size": "",
+        "price": 89000,
+        "location": "Tangerang",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Warna Corak",
+            "price": 89000
+          },
+          {
+            "id": 2,
+            "name": "Warna Polos",
+            "price": 60000
+          }
+        ],
+        "image_url":"/images/new-products/product-4.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0005",
+        "code": "MO231",
+        "name": "Kintakun - Sprei Set Flat Lite Irmadel Microtex T20",
+        "product_type": "Sprei",
+        "size": "100cm x 80cm",
+        "price": 72650,
+        "location": "Jakarta Timur",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran 100cm x 80cm",
+            "price": 72650
+          },
+          {
+            "id": 2,
+            "name": "Ukuran 160cm x 140cm",
+            "price": 110500
+          }
+        ],
+        "image_url":"/images/new-products/product-5.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0006",
+        "code": "M0502",
+        "name": "CUIT Baby 1 - 4 Tahun Set Piyama Anak Tangan Pendek Celana Panjang Pioni Unisex",
+        "product_type": "Pakaian",
+        "size": "S & M",
+        "price": 64500,
+        "location": "Bandung",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran S",
+            "price": 64500
+          },
+          {
+            "id": 2,
+            "name": "Ukuran M",
+            "price": 64500
+          }
+        ],
+        "image_url":"/images/new-products/product-6.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0007",
+        "code": "MO231",
+        "name": "Azkiya - Bergo Maryam",
+        "product_type": "Jilbab",
+        "size": "",
+        "price": 25000,
+        "location": "Bandung",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Jilbab Warna Natural",
+            "price": 250000
+          }
+        ],
+        "image_url":"/images/new-products/product-7.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "product0008",
+        "code": "M0502",
+        "name": "Milan Food Bandung - (NEW) Cigor Laser Makanan Ringan 200gr",
+        "product_type": "Cemilan",
+        "size": "500gram",
+        "price": 8600,
+        "location": "Tangerang",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Berat 500gram",
+            "price": 8600
+          },
+          {
+            "id": 2,
+            "name": "Berat 1kg",
+            "price": 16000
+          }
+        ],
+        "image_url":"/images/new-products/product-8.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      }
+    ],
+    "our_products": [
+      {
+        "id": "item0001", 
+        "name": "qaydstoreid - (FREE IKAT RAMBUT) Hijab Crinkel Airflow Jumbo",
+        "product_type": "Jilbab",
+        "size": "",
+        "price": 30600,
+        "location": "Tasikmalaya",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Warna Coklat Light",
+            "price": 30600
+          },
+          {
+            "id": 2,
+            "name": "Warna Coklat Dark",
+            "price": 30600
+          }
+        ],
+        "image_url":"/images/products/product-1.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0002",
+        "name": "Aliya - Garam Himalaya",
+        "product_type": "Garam",
+        "size": "255gram",
+        "price": 18700,
+        "location": "Bandung",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Berat 255gram",
+            "price": 18700
+          },
+          {
+            "id": 2,
+            "name": "Berat 500gram",
+            "price": 22500
+          }
+        ],
+        "image_url":"/images/products/product-2.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0003",
+        "name": "Raincoat - Jas Hujan Kangguru Mantel Taslan Raincoat",
+        "product_type": "Jas Hujan",
+        "size": "",
+        "price": 166800,
+        "location": "Bandung",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Warna Hitam",
+            "price": 166800
+          },
+          {
+            "id": 2,
+            "name": "Warna Biru",
+            "price": 166800
+          },
+          {
+            "id": 3,
+            "name": "Warna Coklat",
+            "price": 166800
+          }
+        ],
+        "image_url":"/images/products/product-3.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0004",
+        "name": "Al Mubarokah - Madu Al Mubarokah Kemasan 1Kg",
+        "product_type": "Madu",
+        "size": "1kg",
+        "price": 90000,
+        "location": "Jakarta Selatan",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Berat 1kg",
+            "price": 90000
+          },
+          {
+            "id": 2,
+            "name": "Berat 2kg",
+            "price": 180000
+          }
+        ],
+        "image_url":"/images/products/product-4.png",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0005",
+        "name": "Batik Ayodha - KAFTAN MARWAH ALLSIZE JUMBO",
+        "product_type": "Batik",
+        "size": "L",
+        "price": 80351,
+        "location": "Pekalongan",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran L",
+            "price": 80351
+          }
+        ],
+        "image_url":"/images/products/product-5.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0006",
+        "name": "Kintakun - Kintakun Handuk Mandi Dewasa Cotton Pile Towel Sari DLUXE",
+        "product_type": "Handuk",
+        "size": "",
+        "price": 58560,
+        "location": "Tangerang",
+        "varian": [
+          {
+            "id": 1,
+            "name": "DLUXE",
+            "price": 58560
+          },
+          {
+            "id": 2,
+            "name": "ORIGINAL",
+            "price": 45000
+          }
+        ],
+        "image_url":"/images/products/product-6.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0007",
+        "name": "[BUNDLING] Beauty Of Angel Glow Soap 40gr 3 PCS - Beauty of Angel - Soap Bar",
+        "product_type": "Sabun",
+        "size": "",
+        "price": 69250,
+        "location": "Tangerang",
+        "varian": [
+          {
+            "id": 1,
+            "name": "40gr 4 pcs",
+            "price": 69250
+          },
+          {
+            "id": 2,
+            "name": "100gr 2 pcs",
+            "price": 110000
+          }
+        ],
+        "image_url":"/images/products/product-7.png",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "item0008",
+        "name": "MAMY Gallery - [PO] Baju Gamis Fedora Dress Rompi (Premium Quality)",
+        "product_type": "Toy",
+        "size": "M, L, XL",
+        "price": 120900,
+        "location": "Jakarta Barat",
+        "varian": [
+          {
+            "id": 1,
+            "name": "Ukuran M",
+            "price": 120900
+          },
+          {
+            "id": 2,
+            "name": "Ukuran L",
+            "price": 120900
+          },
+          {
+            "id": 1,
+            "name": "Ukuran XL",
+            "price": 120900
+          }
+        ],
+        "image_url":"/images/products/product-8.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      }
+    ],
+    "our_news": [
+      {
+        "id": "news0001", 
+        "name": "Rekomendasi Produk Gamis Kaftan Cantik untuk Lebaran 2024",
+        "info": "Pakaian",
+        "description": "Rekomendasi Produk Gamis Kaftan – Gamis kaftan adalah salah satu jenis busana muslim yang banyak diminati oleh perempuan Indonesia.  Busana ini memiliki desain yang longgar dan lebar dengan lengan yang elegan dan dipastikan nyaman saat digunakan.",
+        "image_url":"/images/news/news-1.webp",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "news0002",
+        "name": "30 Kata Kata untuk Promosi Kue Lebaran dan Hampers yang Menarik Pelanggan",
+        "info": "Makanan",
+        "description": "Ingin usaha kue lebaran kamu laris manis di bulan Ramadhan ini? Saatnya gunakan kata kata untuk promosi kue lebaran yang menarik dan menjual. Yuk, simak contohnya disini! Kue lebaran memang sangat diminati oleh para masyarakat umum dihari raya ini dengan beragam banyak pilihan.",
+        "image_url":"/images/news/news-2.webp",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      },
+      {
+        "id": "news0003",
+        "name": "8 Rekomendasi Handbody yang Cepat Memutihkan Kulit Terbaik 2024, Bikin Glowing!",
+        "info": "Kecantikan",
+        "description": "Handbody merupakan produk perawatan kulit yang berbentuk lotion, krim, hingga gel yang digunakan untuk melembapkan dan melindungi kulit. Bukan hanya itu, bahkan saat ini juga sudah banyak handbody yang cepat mengatasi kulit lebih baik lagi.",
+        "image_url":"/images/news/news-3.jpeg",
+        "shipping": [
+          {
+            "id": "1",
+            "name": "JNE",
+            "image": "/images/shipping/jne.png"
+          },
+          {
+            "id": "2",
+            "name": "J&T",
+            "image": "/images/shipping/j&t.png"
+          },
+          {
+            "id": "3",
+            "name": "Sicepat",
+            "image": "/images/shipping/sicepat.png"
+          }
+        ]
+      }
+    ],
+    "adoption": {
+      "tagline_start": "Adoption",
+      "tagline_end": "We need help. so do they.",
+      "description": "Adopt a pet and give it a home, it will be love you back unconditionally.",
+      "image_url": "/images/humanity.svg"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+@import "../../variable.scss";
+
+#section-header {
+  background: $tertiary-color;
+  padding: 0rem 1rem 0;
+  margin: 4rem 0 0;
+  color: $primary-color;
+  position: relative;
+  overflow: hidden;
+  border-radius: 2rem;
+
+  @media (max-width: 768px) {
+    margin: 0 0 2rem;
+  }
+
+  .wrapper {
+    display: flex;
+    position: relative;
+    height: 29rem;
+
+    @media (max-width: 768px) {
+      flex-direction: column-reverse;
+      height: auto;
+    }
+
+    .header-detail {
+      width: 50%;
+      padding: 4rem 3rem 0;
+      margin-left: auto;
+      z-index: 9999;
+
+      @media (max-width: 768px) {
+        width: 100%;
+        padding: 1rem 0 0;
+      }
+
+      .tagline {
+        text-transform: capitalize;
+        margin-bottom: 0.6rem;
+        position: relative;
+        text-align: right;
+
+        @media (max-width: 768px) {
+          text-align: center;
+        }
+
+        .tagline_start {
+          font-family: "SVN-Gilroy-Bold", sans-serif;
+          font-size: 50px;
+          line-height: 50px;
+          font-weight: 800;
+
+          @media (max-width: 768px) {
+            font-size: 28px;
+            line-height: 28px;
+            margin-top: 2rem;
+          }
+        }
+
+        .tagline_end {
+          font-family: "SVN-Gilroy-Medium", sans-serif;
+          font-size: 40px;
+          line-height: 60px;
+          font-weight: 700;
+
+          @media (max-width: 768px) {
+            font-size: 20px;
+            line-height: 38px;
+          }
+        }
+      }
+
+      .overview {
+        display: flex;
+        justify-content: center;
+        width: 20rem;
+        margin-left: auto;
+
+        @media (max-width: 768px) {
+          width: 100%;
+        }
+      }
+    }
+
+    .section-header__gallery {
+      display: flex;
+      width: 35rem;
+      position: absolute;
+      left: 2rem;
+      display: grid;
+      grid-gap: 1rem;
+      grid-template-columns: repeat(4,minmax(0,1fr));
+
+      @media (max-width: 768px) {
+        width: 100%;
+        position: relative;
+        left: auto;
+        grid-gap: 0.4rem;
+        grid-template-columns: repeat(4,minmax(0,1fr));
+      }
+
+      img {
+        object-fit: cover;
+        width: 8rem;
+        height: 8rem;
+        z-index: 9999;
+
+        @media (max-width: 768px) {
+          width: 5rem;
+          height: 5rem;
+        }
+      }
+    }
+  }
+}

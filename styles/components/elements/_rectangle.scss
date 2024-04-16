@@ -1,0 +1,128 @@
+.rectangle {
+  display: block;
+  width: 635px;
+  height: 635px;
+  top: 28rem;
+  left: 0;
+  border-radius: 99px;
+  transform: rotate(-39.47deg);
+  background-color: #F7DBA7;
+  position: absolute;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+.rectangle-two {
+  width: 335px;
+  height: 350px;
+  top: 24rem;
+  right: 16rem;
+  border-radius: 99px;
+  transform: rotate(-57.47deg);
+  background-color: #F7DBA7;
+  position: absolute;
+  z-index: 1;
+
+  @media (max-width: 768px) {
+    width: 200px;
+    height: 200px;
+    top: 34rem;
+    right: 48px;
+    border-radius: 55px;
+    transform: rotate(-66.47deg);
+  }
+}
+.rectangle-back {
+  width: 335px;
+  height: 450px;
+  top: 22rem;
+  right: 18.5rem;
+  border-radius: 99px;
+  transform: rotate(-74.47deg);
+  background-color: #003459;
+  position: absolute;
+
+  @media (max-width: 768px) {
+    width: 228.98px;
+    height: 228.98px;
+    top: 34.5rem;
+    left: 35px;
+    border-radius: 55px;
+    transform: rotate(-83.47deg);
+  }
+}
+.rectangle-small {
+  display: block;
+  width: 67.1px;
+  height: 67.1px;
+  top: 3.5rem;
+  left: 7.8rem;
+  border-radius: 20px;
+  transform: rotate(-67.47deg);
+  background-color: #F7DBA7;
+  position: absolute;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+.rectangle-right {
+  width: 691px;
+  height: 689px;
+  top: -15rem;
+  right: -10rem;
+  border-radius: 99px;
+  transform: rotate(-60.47deg);
+  background-color: #FCEED5;
+  position: absolute;
+  z-index: 1;
+
+  @media (max-width: 768px) {
+    width: 528.98px;
+    height: 426.98px;
+    top: -10rem;
+    left: -61px;
+    border-radius: 55px;
+    transform: rotate(-76.47deg);
+  }
+}
+.rectangle-left {
+  width: 633px;
+  height: 775px;
+  top: 10rem;
+  left: -5.5rem;
+  border-radius: 99px;
+  -webkit-transform: rotate(-74.47deg);
+  -moz-transform: rotate(-74.47deg);
+  transform: rotate(-56.47deg);
+  background-color: $primary-color;
+  position: absolute;
+
+  @media (max-width: 768px) {
+    width: 528.98px;
+    height: 528.98px;
+    top: 25.5rem;
+    left: -9rem;
+    border-radius: 55px;
+    transform: rotate(-57.47deg);
+  }
+}
+
+.rectangle-navbar {
+  display: block;
+  width: 635px;
+  height: 635px;
+  top: -42.5rem;
+  left: -5rem;
+  border-radius: 99px;
+  transform: rotate(-59.47deg);
+  background-color: #F7DBA7;
+  position: absolute;
+  z-index: 9999;
+
+  @media (max-width: 768px) {
+    left: -15rem;
+    transform: rotate(-61.47deg);
+  }
+}
