@@ -211,7 +211,7 @@ const ProductDetail = () => {
           </div>
           <div className="product-detail__information">
             {ourProductDetail.varian.length > 0 && (
-              <div className="product-detail__box-info d-none">
+              <div className="product-detail__box-info size-none">
                 <h2>Pilih varian:</h2>
                 <div className="product-detail__varian-detail">
                   {ourProductDetail.varian.map((v, index) => {

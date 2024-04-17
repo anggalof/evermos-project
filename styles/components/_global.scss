@@ -76,6 +76,14 @@
   display: none;
 }
 
+.size-none {
+  display: block;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
 /* Breadcrumb */
 .breadcrumb {
   background-color: #f6f6f6;
