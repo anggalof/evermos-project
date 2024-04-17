@@ -42,8 +42,6 @@ const App = () => {
     setOurNewsSection(sections?.data?.our_news);
   }, []);
 
-  console.log('ourProducts', ourProducts);
-
   return (
     <React.Fragment>
       <Header data={headerSection} dataBanner={banner} />

@@ -1,0 +1,44 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.spinner-loading {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.spinner-loading div {
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  width: 50px;
+  background: #FFE7BA;
+  animation: spinner-loading 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+.spinner-loading div:nth-child(1) {
+  left: -28px;
+  animation-delay: -0.24s;
+}
+.spinner-loading div:nth-child(2) {
+  left: 32px;
+  animation-delay: -0.12s;
+  background: #004751;
+}
+.spinner-loading div:nth-child(3) {
+  left: 88px;
+  animation-delay: 0;
+}
+@keyframes spinner-loading {
+  0% {
+    top: 8px;
+    height: 64px;
+  }
+  50%,
+  100% {
+    top: 24px;
+    height: 32px;
+  }
+}
