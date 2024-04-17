@@ -6,7 +6,6 @@ import { fetchProductDetail, fetchNewProductDetail } from "../../../../lib";
 import sections from "../../../../data/sections.json";
 import Breadcrumb from '../../../../components/common/Breadcrumb';
 import Loading from '../../../../components/common/Loading';
-// import Related from '../../../../components/Related';
 import { priceSplitter } from '../../../../utils/formatter/currency';
 
 const ProductDetail = () => {
@@ -256,9 +255,6 @@ const ProductDetail = () => {
           </div>
         </div>
       </div>
-      {/* <div className="container">
-        <Related dataProductRelated={dataProductRelated} />
-      </div> */}
     </div>
   );
 };
